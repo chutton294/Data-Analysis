@@ -1,0 +1,1 @@
+Signature calculation in C++
